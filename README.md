@@ -1,1 +1,1 @@
-Hey Buddy this is about cloning ... In the repo I clone a Valorent website... Valorent is a gaming website
+Hello this project (https://ritik-datey.github.io/VALORANT-CLONE/) represents a cloning of the Valorant Game Website (https://playvalorant.com/en-gb/) I tried to create a exact replica of the home page, with a working functionality.
