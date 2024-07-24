@@ -151,7 +151,12 @@ body{
 .img-containt{
     position: absolute;
     top: 10px;
-    left: 15px;
+    left: 15px;   
+}
+.latest-Ul{
+    list-style-type: none;
+    width: 100%;
+    display: flex
 }
 
 /*---------------------------------------------------*/
@@ -215,7 +220,7 @@ body{
 .right-containerValo{
     position: absolute;
     top: 30%;
-    left: 700px;
+    left: 50%;
 }
 
 /*-----------------------------------------------------------*/
