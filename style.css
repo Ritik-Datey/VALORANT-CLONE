@@ -143,4 +143,14 @@ body{
     transform: translate(-50%, -50%);
 }
 
+/*--------------------------------------------------------*/
+
+.img-containerLatest{
+    position: relative;
+}
+.img-containt{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
 
