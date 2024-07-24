@@ -302,8 +302,6 @@ body{
 
 }
 
-/*-------------------------------------------------------------*/
-
 .link-container{
     text-align: center;
     background-color: #0a0a0a;
@@ -317,7 +315,33 @@ body{
     border-radius: 12px;
 }
 
+.holdmarks-container{
+    text-align: center;
+    padding: 30px 15px;
+    background-color: #0a0a0a;
+    
+}
+.fillHover:hover{
+    fill: white;
+}
 
+.footer-insureLink{
+    text-decoration: none;
+    color: #f1e8e8;
+    
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer-insureLink:hover{
+    background-color: #292929;
+}
+
+.styling{
+    background-color: #292929;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
 
 
 
