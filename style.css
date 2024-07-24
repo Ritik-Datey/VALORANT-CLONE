@@ -211,3 +211,9 @@ body{
 .leftAnchor-button:hover{
     background-color: rgb(15, 25, 35);
 }
+
+.right-containerValo{
+    position: absolute;
+    top: 30%;
+    left: 700px;
+}
