@@ -276,3 +276,43 @@ body{
     background-color: rgb(15, 25, 35);
     color: #f9f9f9;
 }
+
+/*-------------------------------------------------------------*/
+
+.footer{
+    text-align: center;
+}
+.download-portion{
+    display: flex;
+    justify-content: center;
+    background-color: #292929;
+    
+}
+.buttonDownload{ 
+    text-decoration: none;
+    color: #f1e8e8;
+    font-weight: bold;
+    padding: 10px 15px ;
+    border-radius: 10px;
+    margin:20px 5px;
+    font-size: 14px;
+}
+.buttonDownload:hover{
+    background-color: #4e4b48;
+
+}
+
+/*-------------------------------------------------------------*/
+
+.link-container{
+    text-align: center;
+    background-color: #0a0a0a;
+}
+.link-Li{
+    background-color: #292929;
+    display: inline;
+    list-style-type: none;
+    padding: 19px 0px 0px 5px;
+    margin: 5px;
+    border-radius: 12px;
+}
