@@ -250,3 +250,29 @@ body{
     background-color: #fff;
     color: #0a0a0a;
 }
+/*--------------------------------------------------------*/
+
+.map-container{
+    position: relative;
+}
+.mapRight-Image{
+    position: absolute;
+    top: 50px;
+    left: 51%;
+}
+.mapLeft-portion{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    width: 40%;
+}
+.map-button{
+    text-decoration: none;
+    background-color: rgb(255, 70, 85);
+    color: #f9f9f9;
+    padding: 25px 35px;
+}
+.map-button:hover{
+    background-color: rgb(15, 25, 35);
+    color: #f9f9f9;
+}
